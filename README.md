@@ -1,13 +1,4 @@
-That README is **short, clean, and recruiter-friendly** — it works well if you want something quick without too many technical walls of text.
 
-But I’d suggest **two tweaks** to make it stand out more for a resume/GitHub viewer:
-
-1. **Add a project structure block** so they immediately see it’s well-organized.
-2. **Add a short “Future Improvements”** section to show you’re thinking ahead.
-
-Here’s your version with those small upgrades:
-
----
 
 # Email Phishing Detection
 
@@ -68,6 +59,7 @@ streamlit run ui/app.py
 ---
 
 If you want, I can also give you a **requirements.txt** that exactly matches this setup so it’s plug-and-play. That way, anyone who clones your repo can run it without troubleshooting dependencies.
+
 
 
 
