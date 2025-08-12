@@ -28,7 +28,7 @@ Python, Pandas, scikit-learn, NLTK, Streamlit
 
 ## Dataset
 
-[Phishing Email Dataset - Kaggle](https://www.kaggle.com/datasets)
+[Phishing Email Dataset - Kaggle]([https://www.kaggle.com/dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?utm_source=chatgpt.com))
 
 ## Project Structure
 
@@ -68,3 +68,4 @@ streamlit run ui/app.py
 ---
 
 If you want, I can also give you a **requirements.txt** that exactly matches this setup so it’s plug-and-play. That way, anyone who clones your repo can run it without troubleshooting dependencies.
+
