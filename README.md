@@ -21,35 +21,6 @@ Python, Pandas, scikit-learn, NLTK, Streamlit
 
 [Phishing Email Dataset - Kaggle](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?utm_source=chatgpt.com)
 
-## Project Structure
-
-```
-email-phishing-detection/
-│── README.md
-│── requirements.txt
-│── data/
-│   └── phishing_dataset.csv
-│── models/
-│   ├── phishing_model.pkl
-│   └── vectorizer.pkl
-│── src/
-│   ├── preprocess.py
-│   ├── train.py
-│   ├── evaluate.py
-│   ├── predict.py
-│   └── utils.py
-└── ui/
-    └── app.py
-```
-
-## How to Run
-
-```bash
-pip install -r requirements.txt
-python src/train.py
-streamlit run ui/app.py
-```
-
 ## Future Improvements
 
 * Integrate BERT for better accuracy
@@ -58,7 +29,6 @@ streamlit run ui/app.py
 
 ---
 
-If you want, I can also give you a **requirements.txt** that exactly matches this setup so it’s plug-and-play. That way, anyone who clones your repo can run it without troubleshooting dependencies.
 
 
 
